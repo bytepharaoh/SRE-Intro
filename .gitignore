@@ -9,15 +9,13 @@
 # These show what "correct" looks like; students don't see them.
 refs/
 
-# K8s manifests (students write them in lab 4 per-service)
-k8s/
+
 
 # Database migrations (students run `alembic init` in lab 9)
 migrations/
 alembic.ini
 
-# CI workflow (students add this in lab 5 to their fork)
-.github/
+
 
 # Load generator locustfile is copied from labs/lab10/locustfile.py
 # into repo root in lab 10. Student commits it to THEIR fork.
